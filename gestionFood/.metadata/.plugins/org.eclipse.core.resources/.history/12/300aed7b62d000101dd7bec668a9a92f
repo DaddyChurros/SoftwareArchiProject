@@ -1,0 +1,9 @@
+package fr.insa.ms.GestionFood.model;
+
+import java.util.List;
+
+public class GestionFood {
+	List<Plat> plats;
+	
+	
+}

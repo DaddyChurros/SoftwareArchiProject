@@ -1,0 +1,5 @@
+package fr.insa.ms.GestionFood.model;
+
+public class Bac {
+
+}

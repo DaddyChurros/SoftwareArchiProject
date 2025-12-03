@@ -1,0 +1,16 @@
+package fr.insa.ms.GestionFood.controller;
+import fr.insa.ms.GestionFood.model.*;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class GestionFoodResource {
+	private List<Plat> plats
+	@GetMapping("/plats")
+	public List<Plat> getPlats(){
+		return
+	}
+}

@@ -1,0 +1,69 @@
+2025-12-03 16:33:43,878 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-12-03 16:38:16,628 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-12-03 16:39:49,686 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fr.insa.ms:GestionFood:0.0.1-SNAPSHOT @ /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/pom.xml.
+2025-12-03 16:39:56,609 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GestionFood/src/main/java
+2025-12-03 16:39:56,610 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GestionFood/src/main/resources
+2025-12-03 16:39:56,627 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GestionFood/src/main/resources
+2025-12-03 16:39:56,637 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GestionFood/src/test/java
+2025-12-03 16:39:56,638 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GestionFood/src/test/resources
+2025-12-03 16:39:57,444 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 16 sec
+2025-12-03 16:39:59,012 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 16:39:59,244 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 16:39:59,249 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 16:44:51,620 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 16:44:51,632 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 16:44:51,640 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 16:45:47,907 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 16:45:47,920 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 16:45:47,924 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 16:50:03,607 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 16:50:03,626 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 16:50:03,634 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 16:53:59,612 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 16:53:59,621 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 16:53:59,626 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 16:58:58,730 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 16:58:58,740 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 16:58:58,744 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 17:00:58,542 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 17:00:58,551 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 17:00:58,557 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 17:01:02,593 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 17:01:02,603 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 17:01:02,606 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 17:01:04,711 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 17:01:04,730 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 17:01:04,733 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 17:09:45,711 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 17:09:45,719 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 17:09:45,723 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 17:12:10,202 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 17:12:10,211 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 17:12:10,214 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 17:12:11,304 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 17:12:11,311 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 17:12:11,316 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 17:16:27,285 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 17:16:27,292 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 17:16:27,295 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 17:40:09,719 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 17:40:09,727 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 17:40:09,730 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 17:48:27,125 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 17:48:28,144 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 17:48:28,148 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 17:49:16,557 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 17:49:16,565 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 17:49:16,569 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 17:50:18,779 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 17:50:18,991 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 17:50:18,994 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 18:03:11,429 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 18:03:11,439 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 18:03:11,443 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 18:05:17,560 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 18:05:17,567 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 18:05:17,571 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
+2025-12-03 18:10:37,596 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-12-03 18:10:37,602 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-12-03 18:10:37,605 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/Zipmicro/GestionFood/src/test/resources
