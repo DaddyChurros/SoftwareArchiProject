@@ -12,5 +12,5 @@
             <entry path="null"/>
         </endorsedDirs>
     </libraryInfo>
-    <libraryInfo home="/usr/lib/jvm/java-21-openjdk-amd64" version="21.0.8"/>
+    <libraryInfo home="/usr/lib/jvm/java-21-openjdk-amd64" version="21.0.9"/>
 </libraryInfos>

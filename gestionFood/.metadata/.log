@@ -492,3 +492,16 @@ java.lang.Exception: The project description file (.project) for 'GestionFood' i
 
 !ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-12-10 11:07:41.149
 !MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+!SESSION 2026-01-12 15:24:52.917 -----------------------------------------------
+eclipse.buildId=4.33.0.20240829-0648
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-12 15:24:57.379
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-12 15:37:18.525
+!MESSAGE Logback config file: /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/gestionFood/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
