@@ -5,6 +5,11 @@ import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.atomic.AtomicLong;
 
+import org.springframework.context.annotation.Bean;
+import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
+
+@Service
 public class Historique {
 	private final List<Alerte> alertes = new CopyOnWriteArrayList<>();
 	private final AtomicLong idGenerator = new AtomicLong(1);
@@ -30,4 +35,5 @@ public class Historique {
 		//actions sur alerte
 		System.out.println("ALERTE "+ alerte.getSeverity()+ "-" + alerte.getMessage());
 	}
+
 }

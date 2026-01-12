@@ -18,6 +18,8 @@ public class Bac {
 		this.type = type;
 		this.seuil_temp = seuil_temp;
 	}
+	public Bac() {
+	}
 
 	public int getId() {
 		return id;
