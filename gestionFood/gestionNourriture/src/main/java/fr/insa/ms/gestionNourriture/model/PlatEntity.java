@@ -1,20 +1,28 @@
 package fr.insa.ms.gestionNourriture.model;
 
-public class Plat {
-	private int id;
-	private String nom;
-	private String description;
-	private Temperature type; //chaud ou froid
-	//Constructor
-	public Plat(int id, String nom, String description, Temperature type) {
-		super();
-		this.id = id;
-		this.nom = nom;
-		this.description = description;
-		this.type = type;
-	}
-	public Plat() {}
-	
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "plats")
+public class PlatEntity {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private int id;
+
+    private String nom;
+    private String description;
+
+    @Enumerated(EnumType.STRING)
+    private Temperature type; // CHAUD / FROID
+
+    public PlatEntity() {}
+
+    public PlatEntity(String nom, String description, Temperature type) {
+        this.nom = nom;
+        this.description = description;
+        this.type = type;
+    }
 	//getters & setters
 	public int getId() {
 		return id;

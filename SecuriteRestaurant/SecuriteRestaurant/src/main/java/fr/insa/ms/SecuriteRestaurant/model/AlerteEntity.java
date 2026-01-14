@@ -1,27 +1,33 @@
 package fr.insa.ms.SecuriteRestaurant.model;
 
+import jakarta.persistence.*;
+import java.time.LocalDateTime;
 import java.time.LocalTime;
 
-public class Alerte {
-	private long id; 
-	private AlerteType type;
-	private String sourceService;
-	private String message;
-	private AlerteRequest.Severity severity;
-	private LocalTime date;
-	
-	public Alerte(long id, AlerteType type, String sourceService, String message, LocalTime date) {
-		super();
-		this.id = id;
-		this.type = type;
-		this.sourceService = sourceService;
-		this.message = message;
-		this.date = date;
-	}
+@Entity
+@Table(name = "alertes")
+public class AlerteEntity {
 
-	public Alerte() {
-		super();
-	}
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    @Enumerated(EnumType.STRING)
+    private AlerteType type;
+
+    private String sourceService;
+
+    @Column(length = 1000)
+    private String message;
+
+    @Enumerated(EnumType.STRING)
+    private AlerteRequest.Severity severity;
+
+    private LocalDateTime date;
+
+    public AlerteEntity(){};
+
+
 
 	//Getters & Setters
 	public long getId() {
@@ -55,10 +61,10 @@ public class Alerte {
 	public void setSeverity(AlerteRequest.Severity severity) {
 		this.severity = severity;
 	}
-	public LocalTime getDate() {
+	public LocalDateTime getDate() {
 		return date;
 	}
-	public void setDate(LocalTime date) {
+	public void setDate(LocalDateTime date) {
 		this.date = date;
 	}
 }

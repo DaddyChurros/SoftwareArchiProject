@@ -20,30 +20,30 @@ public class SecuriteRestaurantResource {
 	//Probleme trop de client
 	@PostMapping("/client_overflow")
 	@ResponseStatus(HttpStatus.CREATED)
-	public Alerte handleClientOverflow(@Valid @RequestBody AlerteRequest request) {
+	public AlerteEntity handleClientOverflow(@Valid @RequestBody AlerteRequest request) {
 		return historique.createAlerte(AlerteType.CLIENT_OVERFLOW, request);
 	}
 	//Probleme plat vide
 	@PostMapping("/food_empty")
 	@ResponseStatus(HttpStatus.CREATED)
-	public Alerte handleFoodEmpty(@Valid @RequestBody AlerteRequest request) {
+	public AlerteEntity handleFoodEmpty(@Valid @RequestBody AlerteRequest request) {
 		return historique.createAlerte(AlerteType.FOOD_EMPTY, request);
 	}
 	//Probleme Mauvaise température
 	@PostMapping("/food_temperature")
 	@ResponseStatus(HttpStatus.CREATED)
-	public Alerte handleFoodTemperature(@Valid @RequestBody AlerteRequest request) {
+	public AlerteEntity handleFoodTemperature(@Valid @RequestBody AlerteRequest request) {
 		return historique.createAlerte(AlerteType.FOOD_TEMPERATURE, request);
 	}
 	//Probleme gestion table
 	@PostMapping("/table_event")
 	@ResponseStatus(HttpStatus.CREATED)
-	public Alerte handleTableEvent(@Valid @RequestBody AlerteRequest request) {
+	public AlerteEntity handleTableEvent(@Valid @RequestBody AlerteRequest request) {
 		return historique.createAlerte(AlerteType.TABLE_EVENT, request);
 	}
 	//Historique des alertes
 	@GetMapping("/alertes")
-	public List<Alerte> getAllAlertes(){
+	public List<AlerteEntity> getAllAlertes(){
 		return historique.getAllAlertes();
 	}
 }
