@@ -666,3 +666,16 @@ java.io.IOException: Stream closed
 	at org.eclipse.debug.internal.core.OutputStreamMonitor.internalRead(OutputStreamMonitor.java:249)
 	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:225)
 	at java.base/java.lang.Thread.run(Thread.java:1570)
+!SESSION 2026-01-14 12:41:42.761 -----------------------------------------------
+eclipse.buildId=4.33.0.20240829-0648
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-14 12:41:45.815
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-01-14 12:41:54.600
+!MESSAGE Logback config file: /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/gestionFood/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
