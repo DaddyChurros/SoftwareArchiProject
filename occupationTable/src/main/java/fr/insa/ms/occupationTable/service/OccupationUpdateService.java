@@ -62,7 +62,7 @@ public class OccupationUpdateService {
             // Changement d'état significatif
             if (ancienEtat != table.getEtat()) {
                 securiteClient.envoyerAlerte(
-                    "Table " + table.getId() + " : " + ancienEtat + " → " + table.getEtat(),
+                    "Table " + table.getId() + " : " + ancienEtat + " -> " + table.getEtat(),
                     AlerteRequest.Severity.LOW
                 );
             }

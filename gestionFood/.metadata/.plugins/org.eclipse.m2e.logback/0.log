@@ -908,3 +908,9 @@
 2026-01-14 14:55:30,247 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2026-01-14 14:55:30,275 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2026-01-14 14:55:30,278 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/src/test/resources
+2026-01-14 15:07:16,477 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2026-01-14 15:07:16,488 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2026-01-14 15:07:16,491 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/src/test/resources
+2026-01-14 15:19:05,171 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2026-01-14 15:19:05,182 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2026-01-14 15:19:05,185 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/src/test/resources
