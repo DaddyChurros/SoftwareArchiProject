@@ -877,3 +877,34 @@
 2026-01-14 13:34:56,936 [Worker-36: Launching GestionFoodApplication (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2026-01-14 13:34:56,951 [Worker-36: Launching GestionFoodApplication (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2026-01-14 13:34:56,952 [Worker-36: Launching GestionFoodApplication (1)] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/gestionFood/gestionNourriture/src/test/resources
+2026-01-14 14:38:34,480 [Worker-61: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fr.insa.ms:occupationTable:0.0.1-SNAPSHOT @ /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/pom.xml.
+2026-01-14 14:38:36,051 [Worker-61: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2026-01-14 14:38:37,413 [Worker-61: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /occupationTable/src/main/java
+2026-01-14 14:38:37,414 [Worker-61: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /occupationTable/src/main/resources
+2026-01-14 14:38:37,473 [Worker-61: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /occupationTable/src/main/resources
+2026-01-14 14:38:37,516 [Worker-61: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /occupationTable/src/test/java
+2026-01-14 14:38:37,519 [Worker-61: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /occupationTable/src/test/resources
+2026-01-14 14:38:38,058 [Worker-61: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2026-01-14 14:38:39,923 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2026-01-14 14:38:39,944 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2026-01-14 14:38:39,947 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/src/test/resources
+2026-01-14 14:46:37,794 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2026-01-14 14:46:37,833 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2026-01-14 14:46:37,834 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/src/test/resources
+2026-01-14 14:48:02,324 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2026-01-14 14:48:02,336 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2026-01-14 14:48:02,339 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/src/test/resources
+2026-01-14 14:48:27,713 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2026-01-14 14:48:27,726 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2026-01-14 14:48:27,729 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/src/test/resources
+2026-01-14 14:50:54,609 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2026-01-14 14:50:54,622 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2026-01-14 14:50:54,626 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/src/test/resources
+2026-01-14 14:55:25,470 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: fr.insa.ms:occupationTable:0.0.1-SNAPSHOT @ /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/pom.xml.
+2026-01-14 14:55:26,920 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2026-01-14 14:55:28,371 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2026-01-14 14:55:28,372 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2026-01-14 14:55:28,376 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/src/test/resources
+2026-01-14 14:55:30,247 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2026-01-14 14:55:30,275 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2026-01-14 14:55:30,278 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/occupationTable/src/test/resources

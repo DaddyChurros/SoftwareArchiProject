@@ -55,8 +55,16 @@
 		    <version>8.0.33</version>
 		    <scope>runtime</scope>
 		</dependency>
+		
+		<!-- Validation (Jakarta Bean Validation) -->
+		<dependency>
+		    <groupId>org.springframework.boot</groupId>
+		    <artifactId>spring-boot-starter-validation</artifactId>
+		</dependency>
+		
+				
 	</dependencies>
-
+	
 	<build>
 		<plugins>
 			<!-- Spring Boot Maven Plugin -->

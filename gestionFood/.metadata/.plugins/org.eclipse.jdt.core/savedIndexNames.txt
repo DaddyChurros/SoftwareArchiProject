@@ -1,8 +1,5 @@
 INDEX VERSION 1.134+/home/miranvil/Bureau/5ISS/SoftwareArchiProject/ProjetMicroservice/SoftwareArchiProject/gestionFood/.metadata/.plugins/org.eclipse.jdt.core
-700698186.index
 1093443751.index
-3371681915.index
 1865797976.index
-3624976634.index
 2689097801.index
-1030205909.index
+826095374.index
