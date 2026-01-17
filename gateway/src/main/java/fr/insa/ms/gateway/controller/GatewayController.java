@@ -40,7 +40,7 @@ public class GatewayController {
     @GetMapping("/tables")
     public Object listTables() {
         return restTemplate.getForObject(
-            "http://localhost:8081/listTables",
+            "http://gestTable/listTables",
             Object.class
         );
     }
@@ -48,7 +48,7 @@ public class GatewayController {
     @GetMapping("/tables/{id}")
     public Object infoTable(@PathVariable int id) {
         return restTemplate.getForObject(
-            "http://localhost:8081/infoTable/" + id,
+            "http://gestTable/infoTable/" + id,
             Object.class
         );
     }
