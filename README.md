@@ -1,5 +1,5 @@
 
-# Système de Gestion de Restaurant — Architecture Microservices
+# Système de Gestion de Restaurant - Architecture Microservices
 
 Projet d’architecture **microservices** pour la gestion d’un restaurant.
 
